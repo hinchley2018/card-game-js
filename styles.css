@@ -1,0 +1,13 @@
+img {
+    height: 200px;
+    width: 200px;
+}
+.bigger-images > img{
+    height: 400px;
+    width: 400px;
+}
+
+#small-cat {
+    height: 50px;
+    width: 50px;
+}
